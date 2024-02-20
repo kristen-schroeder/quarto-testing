@@ -1,1 +1,9 @@
 /* css styles */
+
+.nice-button {
+    background-color: #199319;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    border-radius: 15%;
+}
