@@ -3,11 +3,22 @@ project:
   output-dir: "2403"
 
 website:
-  title: "organizational-learning"
+  title: "Organizational Learning"
+  sidebar:
+    style: "floating"
+    background: "#F4F6F6"
+    fontsize: 30px
+    search: true
+    contents: 
+      - index.qmd 
+      - schedule.qmd
+      - module1.qmd
+      - module2.qmd
+      - module3.qmd
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    background: "#A7C947"
+    logo: "img/SciLifeLab_Logotype_NEG.png"
+  favicon: "img/SciLifeLab_Logotype_NEG.png"
 
 format:
   html:

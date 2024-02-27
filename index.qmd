@@ -1,5 +1,7 @@
 ---
-title: "Introductory course in Organizational Learning"
+title: "Course announcement"
+author: "John Doe"
+date: today
 ---
 
 ## When and where
