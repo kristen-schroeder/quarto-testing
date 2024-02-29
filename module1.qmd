@@ -19,5 +19,6 @@ date: today
 ## Materials
 
 ## Authors
+Cat Halthur, who is sometimes a bash command.
 
 ## Acknowledgement
