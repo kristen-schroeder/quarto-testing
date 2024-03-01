@@ -15,6 +15,7 @@ website:
       - module1.qmd
       - module2.qmd
       - module3.qmd
+      - module4.qmd
   navbar:
     background: "#A7C947"
     logo: "img/SciLifeLab_Logotype_NEG.png"

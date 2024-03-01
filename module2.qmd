@@ -1,5 +1,5 @@
 ---
-title: "Module 1"
-author: "John Doe"
+title: "Module 2"
+author: "Cat Halthur"
 date: today
 ---

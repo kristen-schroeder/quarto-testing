@@ -1,23 +1,12 @@
 ---
 title: "Module 1"
-author: "John Doe"
+author: "Cat Halthur"
 date: today
 ---
 
 ::: {.callout-tip}
 ### Learning Objectives
 
-- List course learning objectives here.
-- These describe concepts the learners should grasp and techniques they should be able to use by the end of the course.
-- You can think of these as completing the phrase "after this course, the participant should be able to..."
+- TBA
 :::
 
-## Lecture
-
-{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
-
-## Materials
-
-## Authors
-
-## Acknowledgement
