@@ -1,0 +1,32 @@
+---
+title: "Schedule"
+author: "Cat Halthur"
+date: today
+---
+
+### Preliminary schedule
+
+| Day 1 | 21 March |
+|-----------|:---------|
+| 9.30      | Welcome and short introduction to the course |
+| 10.00       | [Module 1](module1.qmd) - Introduction to Organisational Learning   <br> What is Organisational learning, and how is it related to work performance? |
+| 12.00       | **lunch** |
+| 13.00-16.00      | [Module 2](module2.qmd) - Basic concepts of Individual learning <br> What is learning, and how do we attain it?  |
+
+: {tbl-colwidths="[25,75]"}
+
+| Day 2 | 22 March |
+|-----------|:---------|
+| 9.00      | [Module 3](module3.qmd) - Foundations of Organisational Learning   <br> What are the concepts of organisational learning, and how do they manifest in practice?|
+| 12.00       | **lunch** |
+| 13.00-16.00      | [Module 4](module4.qmd) - Practical Approaches to Organisational Learning <br> How do we implement organisational learning and build long time impact?  |
+
+: There will be coffee breaks during the morning and afternoon sessions
+ {tbl-colwidths="[25,75]"}
+
+
+### Spring 2024:
+After the course an optional follow-up session will be held online. Exact date will be decided by the participants.
+
+<!--- Testar --->
+

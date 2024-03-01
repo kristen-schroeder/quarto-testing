@@ -1,5 +1,7 @@
 ---
-title: "Introductory course in Organizational Learning"
+title: "Course announcement"
+author: "Cat Halthur"
+date: today
 ---
 
 ## When and where
@@ -24,16 +26,8 @@ We will also give you practical tools and sustainable strategies you can apply b
 
 We welcome managers, coordinators, and leaders from all career stages to learn how to build a workplace culture of continuous learning in a resource-friendly way using organizational knowledge and collective intelligence!
 
-## Targeted level of the training event
-Introductory level
-
-## Target Audience
-Infrastructure managers, SciLifeLab affiliated group leaders, and other staff with managerial roles.
-
-## Prerequisites
-No prior knowledge of organisational learning, management or individual learning is required, but experience from management is beneficial. 
-
-### Learning Outcomes
+::: {.callout-tip}
+### Learning Objectives
 
 By the end of this course, participants should be able to:
 
@@ -44,35 +38,25 @@ By the end of this course, participants should be able to:
 * identify workplace learning activities, and recognize how these can be designed to create additional organisational value
 
 * identify barriers and promoters for knowledge dissemination and organisational learning
+:::
 
-## Syllabus:
-**Day 1 (Thursday 21.3.2024):**                
+## Targeted level of the training event
+Introductory level
 
-Module 1 – Introduction to Organisational Learning
+## Target Audience
+Infrastructure managers, SciLifeLab affiliated group leaders, and other staff with managerial roles.
 
-Module 2 – Basic concepts of Individual learning
+## Prerequisites
+No prior knowledge of organisational learning, management or individual learning is required, but experience from management is beneficial. 
 
-**Day 2 (Friday 22.3.2024):**                     
-
-Module 3 – Concepts of Organisational Learning
-
-Module 4 – How we promote organisational learning
-
-**Spring 2024:**
-
-After the course an optional follow-up session will be held online. Exact date will be decided by the participants.
 
 ## Course fee
-There is no course attendance fee. Please note that the course does not include any meals or accommodation.
+There is no course attendance fee. 
 
 ## Selection criteria
 Due to limited space, the course accommodates a maximum of 25 participants. If we receive more applications, participants will be selected based on selection criteria such as correct entry requirements, motivation to attend the course as well as gender and geographical balance.
 
 ## Important dates
 Application open: Jan 25, 2024
-
-Application closes: Feb 20, 2024
-
-Confirmation to applicants Feb 23, 2024
 
 For further questions, please contact us at traininghub@scilifelab.se.

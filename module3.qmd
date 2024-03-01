@@ -1,0 +1,9 @@
+---
+title: "Module 3"
+author: "Cat Halthur"
+date: today
+---
+## Foundations for Organisational learning
+### What are the concepts of organisational learning, and how do they manifest in practice?
+In this module you will learn more about the scientific theory and practice of organisational learning. This includes concepts like: Learning Organisations vs Organisational Learning, and Organisational learning vs Knowledge management. We will also talk about how knowledge is stored in an organisation ("Knowledge retention"), what supports organisational learning at macro level (such as Garvins "Building Blocks"), as well as how to measure an organisations level of learning.
+Apart from this we will adress group level learning, including concepts from management and leadership theory, such as basic group dynamics, the difference between group and a team, and look at different learning activities that support meso level learning.
