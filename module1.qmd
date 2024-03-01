@@ -7,6 +7,6 @@ date: today
 ::: {.callout-tip}
 ### Learning Objectives
 
--  TBA
+- TBA
 :::
 
