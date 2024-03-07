@@ -1,5 +1,13 @@
 ---
-title: "Module 1"
-author: "John Doe"
+title: "Module 2"
+author: "Kristen Schroeder"
 date: today
 ---
+
+::: {.callout-tip}
+### Learning Objectives
+
+- After this module, you should be able to imagine how your video training could look with the support of the TH!
+:::
+
+## Lecture

@@ -3,7 +3,7 @@ project:
   output-dir: "2403"
 
 website:
-  title: "Organizational Learning"
+  title: "Video Training with the Training Hub"
   sidebar:
     style: "floating"
     background: "#F4F6F6"
@@ -14,7 +14,6 @@ website:
       - schedule.qmd
       - module1.qmd
       - module2.qmd
-      - module3.qmd
   navbar:
     background: "#A7C947"
     logo: "img/SciLifeLab_Logotype_NEG.png"
