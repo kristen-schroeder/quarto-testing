@@ -205,5 +205,35 @@
     "crumbs": [
       "A Video Course in Knowledge"
     ]
+  },
+  {
+    "objectID": "module2.html#a-title",
+    "href": "module2.html#a-title",
+    "title": "Module 2",
+    "section": "A title",
+    "text": "A title",
+    "crumbs": [
+      "Module 2"
+    ]
+  },
+  {
+    "objectID": "module2.html#section",
+    "href": "module2.html#section",
+    "title": "Module 2",
+    "section": "",
+    "text": "Assignment\n\nAnswer the following questions:\n\n\nWhat course could you put on the Training Portal?\nWhat course are you most interested in taking?\nHave you ever taken a SciLifeLab training course before?",
+    "crumbs": [
+      "Module 2"
+    ]
+  },
+  {
+    "objectID": "module2.html#assignment",
+    "href": "module2.html#assignment",
+    "title": "Module 2",
+    "section": "Assignment",
+    "text": "Assignment\nReflect on the following questions:\n\nWhat course could you put on the Training Portal?\nWhat course are you most interested in taking?\nHave you ever taken a SciLifeLab training course before?",
+    "crumbs": [
+      "Module 2"
+    ]
   }
 ]

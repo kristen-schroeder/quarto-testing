@@ -11,3 +11,13 @@ date: today
 :::
 
 ## Lecture
+
+{{< video https://vimeo.com/909112639?share=copy >}}
+
+## Assignment
+
+Reflect on the following questions:
+
+1. What course could you put on the Training Portal?
+2. What course are you most interested in taking?
+3. Have you ever taken a SciLifeLab training course before?
